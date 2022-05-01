@@ -12,9 +12,9 @@ Dupa selectarea operatiei, utilizatorul trebuie sa introduca dimensiunile datelo
 **ERROR HANDLING: Consola va verifica apoi daca datele introduse sunt valide (numere intregi, pana in 10000)**
 
 Se va deschide o noua fereastra grafica in care va avea loc operatia. Dupa finalizarea operatiei, vor aparea alte butoane pentru:
-    - Intoarcere la meniul principal
-    - Operatie noua cu aceleasi valori
-    - Operatie noua cu alte valori
-    - Iesire din program
+- Intoarcere la meniul principal
+- Operatie noua cu aceleasi valori
+- Operatie noua cu alte valori
+- Iesire din program
 
 
