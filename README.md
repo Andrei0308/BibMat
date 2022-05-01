@@ -11,6 +11,7 @@ Dupa selectarea operatiei, utilizatorul trebuie sa introduca dimensiunile datelo
 
 **ERROR HANDLING: Consola va verifica apoi daca datele introduse sunt valide (numere intregi, pana la 100)**.
 Daca valorile introduse sunt incorecte, utilizatorul va primi mesajul **"Eroare, valoare invalida."** sau **"Eroare, valoare prea mare."** si va trebui sa le reintroduca pana cand acestea sunt valide.
+Mesajele de eroare sunt colorate sugestiv in Rosu.
 
 Se va deschide o noua fereastra grafica in care va avea loc operatia. Dupa finalizarea operatiei, vor aparea alte butoane pentru:
 - Intoarcere la meniul principal
