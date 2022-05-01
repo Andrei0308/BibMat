@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1610642987 source:d:\codeblocks_projects\bibmat final\main.cpp
+	<bits/stdc++.h>
+	<graphics.h>
+	<string>
+	<sstream>
+	<math.h>
+	<stdlib.h>
+	<windows.h.>
+	<conio.h>
+
+1610646587 source:d:\codeblocks_projects\bibmat final\bibmat\main.cpp
+	<bits/stdc++.h>
+	<graphics.h>
+	<string>
+	<sstream>
+	<math.h>
+	<stdlib.h>
+	<windows.h.>
+	<conio.h>
+
