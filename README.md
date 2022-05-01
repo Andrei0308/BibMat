@@ -9,8 +9,8 @@ Butoanele sunt create utilizand **Programare Orientata pe Obiect (OOP)**.
 
 Dupa selectarea operatiei, utilizatorul trebuie sa introduca dimensiunile datelor (numar de linii/coloane, numar de valori) si apoi sa introduca valorile tipului de date (matrice/vector).
 
-**ERROR HANDLING: Consola va verifica apoi daca datele introduse sunt valide (numere intregi, pana in 10000)**
-Daca valorile introduse sunt incorecte, utilizatorul va trebui sa le reintroduca pana cand acestea sunt valide.
+**ERROR HANDLING: Consola va verifica apoi daca datele introduse sunt valide (numere intregi, pana la 100)**.
+Daca valorile introduse sunt incorecte, utilizatorul va primi mesajul **"Eroare, valoare invalida."** sau **"Eroare, valoare prea mare."** si va trebui sa le reintroduca pana cand acestea sunt valide.
 
 Se va deschide o noua fereastra grafica in care va avea loc operatia. Dupa finalizarea operatiei, vor aparea alte butoane pentru:
 - Intoarcere la meniul principal
